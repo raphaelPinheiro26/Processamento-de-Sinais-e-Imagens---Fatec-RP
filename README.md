@@ -1,1 +1,2 @@
-# Processamento-de-Sinais-e-Imagens---Fatec-RP
+# Processamento-de-Sinais
+Repositório da Disciplina de Processamento de Sinais - FATEC Ribeirão Preto
